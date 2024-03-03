@@ -1,5 +1,5 @@
 function fetchmovie() {
-    return fetch('https://api.themoviedb.org/3/movie/406?api_key=e87d8c47a224c5a90a57e55e0430f89c&language=fr-FR')
+    return fetch('https://api.themoviedb.org/3/movie/406?api_key=&language=fr-FR')
         .then((response) => response.json());
 }
 
