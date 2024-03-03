@@ -1,0 +1,4 @@
+1- put
+2- post
+3- get
+4- del
